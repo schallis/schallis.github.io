@@ -2,7 +2,7 @@
 " Steve Challis
 "
 " SOURCE:
-" wget schallis.com/vimrc -O ~/.vimrc
+" wget schallis.com/static/vimrc -O ~/.vimrc
 "
 " INSTALLATION:
 " git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
